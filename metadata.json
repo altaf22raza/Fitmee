@@ -1,0 +1,6 @@
+{
+  "name": "FitMe – AI Body Measurement & Virtual Fashion Platform",
+  "description": "Smart Measurements. Better Fits. AI-powered body measurement, personalized 3D avatar generation, and virtual fashion try-on studio.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
